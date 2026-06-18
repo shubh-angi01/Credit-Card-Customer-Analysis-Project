@@ -115,7 +115,7 @@ Built two interactive Power BI dashboards using custom **DAX measures**, KPI car
 * Attrition Rate by Card Category
 * Customer Activity Comparison
 
-![Attrition Risk Analysis](Dashboard%20screenshots/Attrition Risk Analysis pg2.png)
+![Attrition Risk Analysis](Dashboard%20screenshots/Attrition_Risk_Analysis.png)
 
 ---
 

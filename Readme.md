@@ -95,7 +95,7 @@ Built two interactive Power BI dashboards using custom **DAX measures**, KPI car
 * Customer Distribution by Income
 * Gender Distribution
 
-![Customer Profile Analysis](Dashboard%20screenshots/Customer_Profile_Analysis.png)
+![Customer Profile Analysis](Dashboard%20screenshots/Customer%20profile%20analysis%20pg1.png)
 
 
 ---
@@ -116,7 +116,7 @@ Built two interactive Power BI dashboards using custom **DAX measures**, KPI car
 * Attrition Rate by Card Category
 * Customer Activity Comparison
 
-![Attrition Risk Analysis](Dashboard%20screenshots/Attrition_Risk_Analysis.png)
+![Attrition Risk Analysis](Dashboard%20screenshots/Attrition%20Risk%20Analysis%20pg2.png)
 
 ---
 

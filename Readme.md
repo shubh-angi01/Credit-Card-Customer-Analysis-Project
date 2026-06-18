@@ -97,6 +97,7 @@ Built two interactive Power BI dashboards using custom **DAX measures**, KPI car
 
 ![Customer Profile Analysis](Dashboard%20screenshots/Customer_Profile_Analysis.png)
 
+
 ---
 
 # Dashboard 2: Attrition Risk Analysis
